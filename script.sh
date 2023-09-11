@@ -25,10 +25,10 @@ echo "
 <h3><font color='green'>--- ۩ SERVER BY ZGO TECH ZONE ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Nora7684
+<h4><font color='cyan'>Telegram Channel >> `https://t.me/Nora7684`
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/ZGO_TECH_ZONE
+<h4><font color='blue'>Telegram Channel >> `https://t.me/ZGO_TECH_ZONE`
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
@@ -39,14 +39,15 @@ echo "zero:zero" | chpasswd
 echo ""
 
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
-echo -e "${cyan} ___   ___          ________          ___   ___                               ${plain}"
-echo -e "${cyan}|\  \ |\  \        |\   __  \        |\  \ |\  \                              ${plain}"
-echo -e "${cyan}\ \  \|_\  \       \ \  \|\  \       \ \  \|_\  \                             ${plain}"
-echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \                            ${plain}"
-echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
-echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
-echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${cyan}  /$$$$$$$$ /$$$$$$$$ /$$$$$$$   /$$$$$$                                      ${plain}"
+echo -e "${cyan} |_____ $$ | $$_____/| $$__  $$ /$$__  $$                                     ${plain}"
+echo -e "${cyan}      /$$/ | $$      | $$  \ $$| $$  \ $$                                     ${plain}"
+echo -e "${cyan}     /$$/  | $$$$$   | $$$$$$$/| $$  | $$                                     ${plain}"
+echo -e "${cyan}    /$$/   | $$__/   | $$__  $$| $$  | $$                                     ${plain}"
+echo -e "${cyan}   /$$/    | $$      | $$  \ $$| $$  | $$                                     ${plain}"
+echo -e "${cyan}  /$$$$$$$$| $$$$$$$$| $$  | $$|  $$$$$$/                                     ${plain}"
+echo -e "${cyan} |________/|________/|__/  |__/ \______/                                      ${plain}"
+echo -e "${green}Contact the developer https://t.me/Nora7684 for more information             ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am ZERO ${plain}"
