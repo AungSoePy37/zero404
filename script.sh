@@ -33,8 +33,8 @@ echo "
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "zgotech" --shell=/bin/false -M
-echo "zgotech:zgotech" | chpasswd
+useradd "zero" --shell=/bin/false -M
+echo "zero:zero" | chpasswd
 
 echo ""
 
