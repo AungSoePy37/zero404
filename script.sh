@@ -34,7 +34,7 @@ echo "
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "zgotech" --shell=/bin/false -M
-echo "zgotech" | chpasswd
+echo "zgotech:zgotech" | chpasswd
 
 echo ""
 
