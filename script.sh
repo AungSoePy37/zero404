@@ -32,7 +32,7 @@ echo "
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬۩۞۩▬▬▬▬▬▬
-</font></h3>" | tee /etc/ssh/zero404 >/dev/null
+</font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "zero" --shell=/bin/false -M
 echo "zero:zero" | chpasswd
 
