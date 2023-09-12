@@ -25,10 +25,10 @@ echo "
 <h3><font color='green'>--- ۩ SERVER BY ZGO TECH ZONE ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> `https://t.me/Nora7684`
+<h4><font color='cyan'>Telegram Channel >> https://t.me/Nora7684
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> `https://t.me/ZGO_TECH_ZONE`
+<h4><font color='blue'>Telegram Channel >> https://t.me/ZGO_TECH_ZONE
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬۩۞۩▬▬▬▬▬▬
